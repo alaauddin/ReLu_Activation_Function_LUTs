@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Feb 14 14:01:34 2023
+# Process ID: 3596
+# Current directory: C:/Users/User/ACTIVATION FUNCTION/ReLu_Activation_Function/ReLu_Activation_Function.runs/impl_1
+# Command line: vivado.exe -log ReLu.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ReLu.tcl -notrace
+# Log file: C:/Users/User/ACTIVATION FUNCTION/ReLu_Activation_Function/ReLu_Activation_Function.runs/impl_1/ReLu.vdi
+# Journal file: C:/Users/User/ACTIVATION FUNCTION/ReLu_Activation_Function/ReLu_Activation_Function.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source ReLu.tcl -notrace
